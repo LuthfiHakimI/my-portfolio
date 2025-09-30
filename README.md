@@ -2,6 +2,9 @@
 
 Personal portfolio website showcasing my projects, skills, and professional experience.
 
+![alt text](https://github.com/LuthfiHakimI/my-portfolio/blob/master/public/Dashboard%20awal%20porto.jpg?raw=true)
+
+
 ## 🚀 Tech Stack
 
 - **Framework:** Next.js
