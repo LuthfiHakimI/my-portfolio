@@ -209,7 +209,7 @@ export default function JourneyTimeline() {
             Professional <span className="text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text">Experience</span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            From fresh graduate to product development specialist - here's my journey in tech and business.
+            From fresh graduate to product development specialist - here &apos;s my journey in tech and business.
           </p>
         </div>
 

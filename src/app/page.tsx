@@ -135,17 +135,17 @@ export default function Home() {
           {/* Text Content - Left Column */}
           <div className="space-y-6 text-center lg:text-left order-2 lg:order-1">
             <div className="space-y-2">
-              <p className="text-cyan-400 font-medium text-lg animate-fade-in">Hello, It's Me</p>
+              <p className="text-cyan-400 font-medium text-lg animate-fade-in">Hello, It&apos;s Me</p>
               <h1 className="text-5xl lg:text-7xl font-bold tracking-tight bg-gradient-to-r from-white via-gray-100 to-gray-300 bg-clip-text text-transparent animate-fade-in-up">
                 Luthfi Hakim
               </h1>
               <h2 className="text-2xl lg:text-4xl font-semibold text-gray-300 animate-fade-in-up">
-                And I'm a <span className="text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text font-bold">Product Development and Management Enthusiast</span>
+                And I&apos;m a <span className="text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text font-bold">Product Development and Management Enthusiast</span>
               </h2>
             </div>
             
             <p className="text-gray-400 text-lg leading-relaxed max-w-xl mx-auto lg:mx-0 animate-fade-in-up">
-              I'm a passionate product management enthusiast who thrives on transforming ideas into impactful, user-centered solutions that deliver real value.
+              I&apos;m a passionate product management enthusiast who thrives on transforming ideas into impactful, user-centered solutions that deliver real value.
             </p>
             
             {/* Social Links */}
@@ -232,11 +232,11 @@ export default function Home() {
           <div className="space-y-6">
             <p className="text-cyan-400 font-medium text-lg">Get In Touch</p>
             <h2 className="text-4xl lg:text-5xl font-bold">
-              Let's Work <span className="text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text">Together</span>
+              Let&apos;s Work <span className="text-transparent bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text">Together</span>
             </h2>
             <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
-              I'm always open to discussing new opportunities, creative projects, or potential collaborations. 
-              Let's create something amazing together!
+              I&apos;m always open to discussing new opportunities, creative projects, or potential collaborations. 
+              Let&apos;s create something amazing together!
             </p>
             <div className="pt-6">
               <a 
