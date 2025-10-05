@@ -48,11 +48,11 @@ export default function Home() {
     },
     {
       title: "N+ Website System",
-      image: "/meccabot-2.jpg",
-      description: "N Plus Website System is Here to Simplify and Improve your business process, solving challenges with ease",
+      image: "/HomePageN+.png",
+      description: "N Plus Website System is designed to simplify and enhance your business processes by providing efficient, integrated, and user-friendly solutions. It enables companies to manage workflows, data, and information faster and more accurately, while reducing operational complexity. Built with flexibility to adapt to modern business needs, N Plus helps boost productivity, strengthen decision-making, and make your company more competitive in the digital era.",
       detailedDescription: "Sistem website N+ adalah platform manajemen bisnis yang dirancang untuk mengoptimalkan proses bisnis dengan antarmuka yang intuitif dan fitur-fitur canggih. Platform ini memungkinkan bisnis untuk mengelola operasional mereka dengan lebih efisien.",
       link: "#",
-      technologies: ["Figma", "Microsoft Excel", "Business Analysis"],
+      technologies: ["Figma", "Microsoft Excel", "Business Analysis", "Product Development", "Product Analyst"],
       timeline: "2 bulan (Juni - Juli 2024)",
       features: [
         "Dashboard analitik bisnis real-time",
@@ -72,13 +72,13 @@ export default function Home() {
         "Feedback positif dari 15+ business stakeholders"
       ],
       images: [
-        "/nplus-1.jpg",
-        "/nplus-2.jpg"
+        "/HomePageN+.png",
+        "/Desktop26.png"
       ]
     },
     {
       title: "Snap Eat",
-      image: "/meccabot-3.jpg",
+      image: "Snapeat_1.jpg",
       description: "SnapEat is a social food app that uses machine learning to deliver personalized dish recommendations, connect food enthusiasts, and bring transparency to food reviews.",
       detailedDescription: "SnapEat adalah aplikasi sosial inovatif yang menggunakan teknologi machine learning untuk memberikan rekomendasi makanan yang dipersonalisasi. Aplikasi ini menghubungkan para food enthusiast dan memberikan transparansi dalam review makanan melalui sistem rekomendasi yang cerdas.",
       link: "#",
@@ -106,10 +106,7 @@ export default function Home() {
         "Terpilih sebagai Best Capstone Project di Bangkit 2024"
       ],
       images: [
-        "/snapeat-1.jpg",
-        "/snapeat-2.jpg",
-        "/snapeat-3.jpg",
-        "/snapeat-4.jpg"
+        "/Snapeat_1.jpg"
       ],
       video: "https://www.youtube.com/embed/DC5zbPp_4Bg"
     }

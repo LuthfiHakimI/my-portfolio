@@ -159,7 +159,7 @@ export default function JourneyTimeline() {
     ],
     "Tools & Platforms": [
       "Google Apps Script", "Odoo", "Trello", "Canva", "Google Workspace",
-      "Zoom", "Microsoft Office", "Documentation Tools"
+      "SAP", "Microsoft Office", "Documentation Tools"
     ],
     "Soft Skills": [
       "Leadership", "Problem Solving", "Communication", "Critical Thinking",
