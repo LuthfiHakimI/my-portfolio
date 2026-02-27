@@ -20,6 +20,23 @@ export default function JourneyTimeline() {
   const experiences: ExperienceItem[] = [
     {
       id: 1,
+      title: "Shared Service Human Capital Intern",
+      company: "PT Pertamina Persero",
+      location: "Jakarta, Indonesia",
+      period: "Oct 2025 - Apr 2026",
+      type: "work",
+      description: [
+        "Developed and maintained 6+ Business Requirement Documents (BRD) and Requirement Initiation Check (RIC) for RPA/AI initiatives, ensuring structured requirement validation before system development and process automation",
+        "Contributed to the 2026 chargeback calculation process by analyzing cost increase/decrease scenarios based on strategic considerations, supporting financial planning and cost allocation accuracy",
+        "Verified and validated 300+ training documents (BPS Program) to ensure compliance and accuracy, supporting Shared Service Human Capital in delivering services to HC Holding and Subholding entities",
+        "Served as speaker in 4 STK EIT sessions, including material on IT Security Classification, and participated in AI training, Web 2.0 development & UAT processes, and SAP-based hiring system exposure"
+      ],
+      technologies: ["Microsoft Teams", "Microsoft Excel", "Flowchart Toolss", "Documentation Tools", "SAP"],
+      highlights: ["6+ BRD/RIC documents", "300+ training document validation", "4 STK EIT speaker sessions"]
+    },
+
+    {
+      id: 2,
       title: "Product Development Specialist Intern",
       company: "PT Midi Utama Indonesia Tbk",
       location: "Tangerang, Indonesia",
@@ -34,7 +51,7 @@ export default function JourneyTimeline() {
       highlights: ["Reduced manual errors", "Eliminated paper usage", "Higher operational efficiency"]
     },
     {
-      id: 2,
+      id: 3,
       title: "Team Leader",
       company: "Meccabot Startup",
       location: "Surabaya",
@@ -49,7 +66,7 @@ export default function JourneyTimeline() {
       highlights: ["4 competition wins", "140M+ rupiah funding", "Media coverage from Trans7, Kompas"]
     },
     {
-      id: 3,
+      id: 4,
       title: "Machine Learning Cohort",
       company: "Bangkit Academy (Google, Tokopedia, Gojek, Traveloka)",
       location: "Remote",
@@ -64,7 +81,7 @@ export default function JourneyTimeline() {
       highlights: ["Selected from 503 applicants", "Entrepreneur Track", "Market-ready product"]
     },
     {
-      id: 4,
+      id: 5,
       title: "Enterprise Systems Teaching Assistant",
       company: "Institut Teknologi Sepuluh Nopember (ITS)",
       location: "Surabaya",
@@ -79,7 +96,7 @@ export default function JourneyTimeline() {
       highlights: ["Technical problem solving", "System proficiency improvement"]
     },
     {
-      id: 5,
+      id: 6,
       title: "System Analyst Intern",
       company: "GMF AeroAsia",
       location: "Tangerang, Indonesia",
@@ -94,7 +111,7 @@ export default function JourneyTimeline() {
       highlights: ["2 system projects", "Technical clarity", "Stakeholder coordination"]
     },
     {
-      id: 6,
+      id: 7,
       title: "Business Process Management Teaching Assistant",
       company: "Institut Teknologi Sepuluh Nopember",
       location: "Surabaya",
@@ -109,7 +126,7 @@ export default function JourneyTimeline() {
       highlights: ["Lecture delivery", "Student assessment", "BPM expertise"]
     },
     {
-      id: 7,
+      id: 8,
       title: "Head of IT and Equipment",
       company: "ILITS! FORDA BANTEN 2023",
       location: "Tangerang",
@@ -124,7 +141,7 @@ export default function JourneyTimeline() {
       highlights: ["5 staff team", "Brand presence", "Student engagement"]
     },
     {
-      id: 8,
+      id: 9,
       title: "Bachelor of Information System",
       company: "Institut Teknologi Sepuluh Nopember",
       location: "Surabaya",
